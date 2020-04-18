@@ -8,6 +8,5 @@ sudo rm -rf aono-app/
 ６、MavenのRepository（倉庫URL）:https://mvnrepository.com
 ７、JARファイルを作る：mvn package
 
-
-
-xyhkaj-9tadvI-hutsen
+*import*
+Create a GitHub repositories before add a new one from local
