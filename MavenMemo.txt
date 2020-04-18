@@ -1,0 +1,13 @@
+１、WEBの情報が古くて、一番早いのは本番サイトを見ること。
+２、SSL接続ために、JAVAプログラム（InstallCert）を実行するケースがある。
+３、mvn archetype:generate -DgroupId=com.aobo.app -DartifactId=aobo-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+上記コマンド実行するにはsudoは必要です。
+４、MacでDirectory削除するCommand
+sudo rm -rf aono-app/
+５、mvn実行する時に、sudoは必要です。
+６、MavenのRepository（倉庫URL）:https://mvnrepository.com
+７、JARファイルを作る：mvn package
+
+
+
+xyhkaj-9tadvI-hutsen
